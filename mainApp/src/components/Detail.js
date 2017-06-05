@@ -13,7 +13,6 @@ class Detail extends Component {
 		            <li className="userName" id="">
 		       
 		            </li>
-		        
 		            <li id="addName" >
 		                 더 보기
 		            </li>
