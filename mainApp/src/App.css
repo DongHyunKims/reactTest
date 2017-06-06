@@ -120,7 +120,6 @@ input[type="button"] {
 
 }
 
-
 #addName {
   background-color: antiquewhite;
 }
@@ -158,10 +157,6 @@ input[type="button"] {
   border: 1px solid black;
   float: left;
 }
-
-
-
-
 
 .App {
   text-align: center;

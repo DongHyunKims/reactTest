@@ -37,4 +37,6 @@ const utility = {
         return formData;
     },
 
-};
+}; 
+
+export default utility;

@@ -30,7 +30,7 @@
         fileInput.on("change",()=>{
             let file = fileInput.prop("files")[0];
             let reader = new FileReader();
-            let { size,type} = file;
+            let { size,type } = file;
 
             if(size > MAX_SIZE || !type.match("image")){
                 alert("2MB 보다 작은 파일을 업로드 하거나 이미지 파일을 업로드 하세요.");

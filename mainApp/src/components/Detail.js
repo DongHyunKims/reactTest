@@ -8,7 +8,6 @@ class Detail extends Component {
 	render(){
 		return (
 			<div className="detailArea">
-
 		        <ul className="nameListArea">
 		            <li className="userName" id="">
 		       
@@ -20,7 +19,6 @@ class Detail extends Component {
 
 		        <div className="userDetail">
 		            <input type="hidden" id="userId" value=""/>
-
 		            <div className="userDetailImg">
 		              <img src="" />
 		            </div>
